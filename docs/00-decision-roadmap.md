@@ -101,8 +101,8 @@ A-1 の決定により、Phase F（実装）以降は2ラウンドに分かれ�
 | A-2 | 分割の駆動軸 → **変更の波及範囲の局所化** | [ADR-0007](adr/0007-driving-axis-blast-radius.md) | 決定 |
 | B-1 | 境界の発見手法 → **イベントストーミング** | [ADR-0006](adr/0006-event-storming-for-boundaries.md) | 決定 |
 | B-2 | 業務フローとドメインイベント → [イベント一覧](10-event-storming.md) | [ADR-0008](adr/0008-material-consumption-reporting.md) | 決定 |
-| B-3 | ユビキタス言語 | — | **検討中** |
-| C-1 | 境界づけられたコンテキスト | — | 未着手 |
+| B-3 | ユビキタス言語 → [用語集](11-ubiquitous-language.md) | [ADR-0009](adr/0009-context-local-models.md) | 決定 |
+| C-1 | 境界づけられたコンテキスト | — | **検討中** |
 | C-2 | コンテキストマップ | — | 未着手 |
 | C-3 | サービス境界の確定 | — | 未着手 |
 | C-4 | 集約とトランザクション境界 | — | 未着手 |
