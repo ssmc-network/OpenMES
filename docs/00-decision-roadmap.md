@@ -100,8 +100,8 @@ A-1 の決定により、Phase F（実装）以降は2ラウンドに分かれ�
 | A-1 | どこから作り始めるか → **DB のみ先に分割（Database-first）** | [ADR-0005](adr/0005-start-with-database-first-decomposition.md) | 決定 |
 | A-2 | 分割の駆動軸 → **変更の波及範囲の局所化** | [ADR-0007](adr/0007-driving-axis-blast-radius.md) | 決定 |
 | B-1 | 境界の発見手法 → **イベントストーミング** | [ADR-0006](adr/0006-event-storming-for-boundaries.md) | 決定 |
-| B-2 | 業務フローとドメインイベント | — | **検討中** |
-| B-3 | ユビキタス言語 | — | 未着手 |
+| B-2 | 業務フローとドメインイベント → [イベント一覧](10-event-storming.md) | [ADR-0008](adr/0008-material-consumption-reporting.md) | 決定 |
+| B-3 | ユビキタス言語 | — | **検討中** |
 | C-1 | 境界づけられたコンテキスト | — | 未着手 |
 | C-2 | コンテキストマップ | — | 未着手 |
 | C-3 | サービス境界の確定 | — | 未着手 |
